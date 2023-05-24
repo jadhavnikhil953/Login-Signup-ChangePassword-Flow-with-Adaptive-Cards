@@ -1,0 +1,11 @@
+#adaptiveCardContainer{
+    width: 700px;
+    position: absolute;
+    left: calc(50% - 350px);
+    top: calc(50% - 200px);
+    background-color: transparent !important;
+}
+.ac-container .ac-adaptiveCard{
+    background-color: transparent !important;
+  }
+  
