@@ -19,9 +19,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
         node server.js (This will initialize the express server and host it locally. You can visit http://localhost:4200
 
 ## Output:
-![image](https://user-images.githubusercontent.com/95047914/206084549-dd78613a-fbf8-4eb1-a683-3eb141c894b4.png)
+![image](https://github.com/jadhavnikhil953/Login-Signup-ChangePassword-Flow-with-Adaptive-Cards/assets/95047914/fe83e5e2-24f7-4802-bc4b-cc7cb881c046)
+
 ## Database setup:
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/95047914/206084762-0a5e23a4-bea4-48fe-9b97-00f74099e03d.png">
+![image](https://github.com/jadhavnikhil953/Login-Signup-ChangePassword-Flow-with-Adaptive-Cards/assets/95047914/2bdcd116-33ff-4e1d-8a68-031a6327c1f2)
 
 
 ## Development server
