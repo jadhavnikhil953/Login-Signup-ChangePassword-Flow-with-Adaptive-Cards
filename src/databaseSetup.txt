@@ -3,6 +3,6 @@ db.users.insert([{
     firstName:"Test",
     lastName:"User",
     isTempPw:false,
-    pw:"bp2L3LLOIv+47QkABXJh0o/DjAYk0nRTqMqzlVJTYDg="
+    pw:"uCXitRxTqpq2MbqnlubA7UG5D17yqjUfintgtb+C+mE="
 }])
-//Password = Lihkin@18
+//Password = 1234
